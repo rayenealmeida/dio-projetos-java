@@ -10,6 +10,6 @@ public class SmartTv{
 
     public void Desligar(){
 
-        ligada = true;
+        ligada = false;
     }
 }
